@@ -15,7 +15,7 @@
 
 6. Продемонстрировать концепцию разработки. 
 
-### **Инструменты**: Python, Telegram, MySQL, Botogram, Git, Ergast API, Yandex API   
+### **Инструменты**: Python, Telegram, MySQL, Botogram, Git, Ergast API, Yandex API, Visual Studio Code   
 
 ### **Структура дипломного проекта**:   
 
